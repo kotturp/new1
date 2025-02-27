@@ -24,7 +24,7 @@ const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            Fullstack Developer Portfolio
+            Software Development Engineer
           </h1>
         </motion.div>
 
@@ -36,9 +36,9 @@ const HeroContent = () => {
             Providing
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
-              the best{" "}
+              Praneetha Mukkamala{" "}
             </span>
-            project exprience
+           Software Engineer 
           </span>
         </motion.div>
 
@@ -53,7 +53,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
-          Learn More!
+          Resume
         </motion.a>
       </div>
 
