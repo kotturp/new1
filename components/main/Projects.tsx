@@ -27,17 +27,17 @@ const Projects = () => {
       </h1>
       <div className="flex justify-center items-center gap-12 flex-wrap">
         <ProjectCard
-         src="/reality.png"
+         src="/Port1.jpeg"
          title="RealityAI"
           description={"Gen AI Data Analyst\n(January 2025-Present)"} // ✅ New Line
         />
         <ProjectCard
-          src="/open.jpg"
+          src="/Port2.jpeg"
           title="OpenQQuantify"
           description="Business Analyst (September 2024 - December 2024)"
         />
         <ProjectCard
-          src="/tripai.jpg"
+          src="/Port3.jpeg"
           title="TripAI"
           description="Business Analyst (September 2024 - December 2024)"
         />
