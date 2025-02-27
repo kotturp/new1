@@ -18,11 +18,11 @@ const Footer = () => {
                     <div className="font-bold text-[16px]">Contact Me</div>
                    <p className="flex flex-row items-center my-[15px] cursor-pointer">
                      
-                        <span className="text-[15px] ml-[6px]">praneethamukkamala@gmail.com</span>    
+                        <span className="text-[15px] ml-[6px]">mukkamalapraneetha@gmail.com</span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                       
-                        <span className="text-[15px] ml-[6px]">+1(682)392-0536</span>    
+                        <span className="text-[15px] ml-[6px]">+1(682)391-8986</span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                   
@@ -32,7 +32,7 @@ const Footer = () => {
             </div>
 
             <div className="mb-[20px] text-[15px] text-center">
-                &copy; Praneetha Mukkamala. All rights reserved
+                &copy;2025 Praneetha Mukkamala. All rights reserved
             </div>
         </div>
     </div>
