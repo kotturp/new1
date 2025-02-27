@@ -12,11 +12,11 @@ const Projects = () => {
         <ProjectCard
           src="/uta.png"
           title="University of Texas at Arlington"
-          description="Master's in Business Analyst (2023 - 2024)"
+          description="Master's in Computer Science (2023 - 2024)"
         />
         <ProjectCard
-          src="/sppu.jpg"
-          title="Pune University"
+          src="/vignan.png"
+          title="Vignan Institute of Technology & Science"
           description="Bachelor's in Computer Science (2016 - 2020)"
         />
       </div>
