@@ -5,7 +5,7 @@ const Projects = () => {
   return (
     <div className="flex flex-col items-center justify-center py-20">
       {/* Section 1: Education */}
-      <h1 className="text-[50px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-blue-700 to-cyan-500 py-10">
+      <h1 className="text-[60px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-blue-700 to-cyan-500 py-10">
         Education
       </h1>
       <div className="flex justify-center items-center gap-12 flex-wrap">
@@ -22,7 +22,7 @@ const Projects = () => {
       </div>
 
       {/* Section 2: Work Experience */}
-      <h1 className="text-[50px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-blue-700 to-cyan-500 py-10">
+      <h1 className="text-[60px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-blue-700 to-cyan-500 py-10">
         Work Experience
       </h1>
       <div className="flex justify-center items-center gap-12 flex-wrap">
