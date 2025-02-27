@@ -20,26 +20,47 @@ const Projects = () => {
           description="Bachelor's in Computer Science (2016 - 2020)"
         />
       </div>
-
       {/* Section 2: Work Experience */}
-      <h1 className="text-[60px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-blue-700 to-cyan-500 py-10">
+      <h1 className="text-[50px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-orange-700 to-purple-500 py-10">
         Work Experience
       </h1>
       <div className="flex justify-center items-center gap-12 flex-wrap">
         <ProjectCard
+          src="/reality.png"
+          title="RealityAI"
+          description="Software Developer"
+        />
+        <ProjectCard
+          src="/tom.jpg"
+          title="Tomorrows AI"
+          description="Software Developer"
+        />
+        <ProjectCard
+          src="/infosys.png"
+          title="Infosys"
+          description="Software Engineer"
+        />
+      </div>
+
+      {/* Section 2: Work Experience */}
+      <h1 className="text-[60px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-blue-700 to-cyan-500 py-10">
+        Projects
+      </h1>
+      <div className="flex justify-center items-center gap-12 flex-wrap">
+        <ProjectCard
          src="/Port1.jpeg"
-         title="RealityAI"
-          description={"Gen AI Data Analyst\n(January 2025-Present)"} // ✅ New Line
+         title="Job compatibility"
+          description={"Developed a free, AI-powered tool that calculates a compatibility"} // ✅ New Line
         />
         <ProjectCard
           src="/Port2.jpeg"
-          title="OpenQQuantify"
-          description="Business Analyst (September 2024 - December 2024)"
+          title="Query Genie"
+          description="Engineered Python-based chatbot using PandasAI, processing over 250,000+ entries with 95% precision."
         />
         <ProjectCard
           src="/Port3.jpeg"
-          title="TripAI"
-          description="Business Analyst (September 2024 - December 2024)"
+          title="Voice Based ChatBot"
+          description="Designed a voice-based feedback analysis system with ChatGPT integration."
         />
       </div>
     </div>
