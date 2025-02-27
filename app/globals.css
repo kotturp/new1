@@ -11,8 +11,8 @@
 .Welcome-text {
   background: linear-gradient(
       0deg,
-      rgba(255, 255, 255, 0.4),
-      rgba(255, 255, 255, 0.4)
+      rgba(247, 165, 33, 0.4),
+      rgba(232, 135, 0, 0.4)
     ),
     linear-gradient(90.01deg, #000000 0.01%, #000000 50.01%, #000000 100%);
   background-blend-mode: normal, screen;
@@ -42,19 +42,19 @@ html, body {
 .button-primary {
   background: linear-gradient(
       180deg,
-      rgba(60, 8, 126, 0) 0%,
-      rgba(60, 8, 126, 0.32) 100%
+      rgba(255, 175, 16, 0) 0%,
+      rgba(255, 190, 10, 0.32) 100%
     ),
-    rgba(113, 47, 255, 0.12);
-  box-shadow: inset 0 0 12px #00b3ff3d;
+    rgba(255, 169, 21, 0.12);
+  box-shadow: inset 0 0 12px ##ffae003d;
 }
 .button-primary:hover {
   background: linear-gradient(
       180deg,
-      rgba(60, 8, 126, 0) 0%,
-      rgba(60, 8, 126, 0.42) 100%
+      rgba(255, 138, 12, 0) 0%,
+      rgba(255, 157, 0, 0.42) 100%
     ),
-    rgba(113, 47, 255, 0.24);
+    rgba(255, 179, 0, 0.24);
   box-shadow: inset 0 0 12px #ffffff70;
 }
 
